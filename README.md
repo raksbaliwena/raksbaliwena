@@ -7,7 +7,7 @@
 - 🌱 I’m currently working on Django & Laravel Frameworks and Network Security  
 - 🥅 2021 Goals: Grow and Contribute more by using github and git 
 
-- 💬 Ask me about anything related to Python/Django Framework/Maintenance and Streamlining processes
+- 💬 Ask me about anything related to Python/Laravel Framework/Maintenance and Streamlining processes
 
 - ⚡ Fun fact: I love Football and Gaming
 
