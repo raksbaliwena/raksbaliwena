@@ -1,6 +1,6 @@
 ### Hi there, I'm Rakim Baliwena <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-## TWelcome to my GitHub Profile
+## Welcome to my GitHub Profile
 
 - 🔭 I’ve previously worked on a simple 2D python game ... :[Alien Inavsion](https://github.com/raksbaliwena/Alien-Invasion.git):
 - 🌱 I’m currently pursuing BSc in Computer Science
