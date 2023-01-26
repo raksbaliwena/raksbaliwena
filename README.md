@@ -4,8 +4,8 @@
 
 - 🔭 I’ve previously worked on a simple 2D python game ... :[Alien Inavsion](https://github.com/raksbaliwena/Alien-Invasion.git):
 - 🌱 BSc in Computer Science graduate
-- 🌱 I’m currently working on Nodejs and Cybersecurity  
-- 🥅 2022 Goals: Grow and Contribute more by using github and git 
+- 🌱 I’m currently working on Nodejs and React (and cybersecurity) 
+- 🥅 2023 Goals: Grow and Contribute more by using github and git 
 
 - 💬 Ask me about anything related to European Football
 - ⚡ Fun fact: I love Football and Gaming
